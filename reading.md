@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Reading
+permalink: /reading/
 ---
-# Reading
 
 This page is a running journal of books I’m reading:
 
