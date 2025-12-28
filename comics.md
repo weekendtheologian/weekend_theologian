@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Comics
+permalink: /comics/
 ---
-# Comics
 
 I love comics and graphic novels.
 
