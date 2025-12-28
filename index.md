@@ -2,7 +2,7 @@
 layout: page
 title: Weekend Theologian
 ---
-
+#Weekend Theologian
 Theology doesn’t have to be confusing, combative, or exhausting.
 
 <p align="left">
