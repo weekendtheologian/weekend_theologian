@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Bass
+permalink: /bass/
 ---
-# Bass
 
 I play bass. Noob level. 
 
