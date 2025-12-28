@@ -21,6 +21,3 @@ In many ways, bass was a parallel to learning theology:
 
 This site isn’t about music.
 But music is part of how I learned to pay attention. And humility. Lots of humility
-
-
-[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md) • [Bass](bass.md) • [Comics](comics.md)
