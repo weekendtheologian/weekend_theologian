@@ -26,6 +26,3 @@ That instinct carries directly into how I approach theology here:
 less system first, more story first.
 
 Thanks Spidey.
-
-
-[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md) • [Bass](bass.md) • [Comics](comics.md)
