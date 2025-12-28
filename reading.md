@@ -1,3 +1,7 @@
+---
+layout: page
+title: Reading
+---
 # Reading
 
 This page is a running journal of books I’m reading:
