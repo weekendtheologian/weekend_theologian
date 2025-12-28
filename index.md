@@ -8,4 +8,4 @@ This is theology for the weekends—for those who love God’s Word, ask real qu
 
 This is a place for slow reading, careful thinking, and gracious faith.
 
-[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md)
+[Home](index.md) • [About](about.md) • [Writing](writing.md) • [Reading](reading.md) • [Bass](bass.md) • [Comics](comics.md)
